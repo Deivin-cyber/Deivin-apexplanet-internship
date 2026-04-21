@@ -3,7 +3,7 @@
 ---
 
 ## 👤 Author
-**Aman Jiwani**  
+**Deivin**  
 
 ---
 
@@ -55,7 +55,7 @@ Demonstrate fundamental cybersecurity operations in a lab environment, including
 
 ---
 ## 🎥 Demo Video
-Watch the Task 1 lab setup demo video here: [Demo Video](https://bit.ly/4nLnkjh)
+Watch the Task 1 lab setup demo video here:
 ---
 
 ## 📦 Deliverables
