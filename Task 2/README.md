@@ -53,10 +53,6 @@ Demonstrate fundamental cybersecurity operations in a lab environment, including
 - Demonstrated blocking a port scan attempt  
 - Files stored in `/firewall/`
 
----
-## 🎥 Demo Video
-Watch the Task 1 lab setup demo video here:
----
 
 ## 📦 Deliverables
 - Nmap Scan Report (`/Nmap Scan Report.pdf`)  
